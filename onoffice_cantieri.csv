@@ -1,0 +1,185 @@
+"ID_Immobile","rif_cantiere","nome_cantiere","cantiere","referente_cantiere","stato_cantiere","Agenzia","Indirizzo","coordinate","n_immobili","Avanzamento_Lavori","Inizio_Lavori","Consegna"
+"45337","1016-19",,"1016-19 ","Parmeggiani Claudio","Cantiere/Gruppo Terminato","Castel Maggiore","Castel Maggiore, Verdi snc","44.5694, 11.3605","19",,NULL,NULL
+"45341","1032-22",,"1032-22 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","Galliera, via della Pace snc","44.7411, 11.437","8",,NULL,NULL
+"45343","103-23",,"103-23 ","Torcasso Angela","Cantiere/Gruppo Attivo","Altedo","Malalbergo, via Cavedagnone Massei snc","44.6894, 11.5047","3",,NULL,NULL
+"45345","1037-21",,"1037-21 ","Ceneri Vittorio","Cantiere/Gruppo Terminato","San Pietro in Casale","San Pietro in Casale, Via De Zaiacomo 18","44.6991, 11.4029","8",,NULL,NULL
+"45347","1055-19",,"1055-19 ","Ceneri Vittorio","Cantiere/Gruppo Terminato","San Pietro in Casale","San Pietro in Casale, Via Paolo Borsellino snc","44.6928, 11.3984","3",,NULL,NULL
+"45349","1077-18",,"1077-18 ","Biondi Gianni","Cantiere/Gruppo Terminato","Divisioni Specialistiche","San Giorgio di Piano, via selvatico 1","44.6555, 11.3657","1",,NULL,NULL
+"45351","1092-21",NULL,NULL,"Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, Via Rita Levi Montalcini 1","44.6489, 11.3672","6",,NULL,NULL
+"45353","1111-21",,"1111-21 ","Torre Antonio","Cantiere/Gruppo Attivo","Castenaso","Castenaso, Via Bixio snc","44.5071, 11.4811","11",,NULL,NULL
+"45355","1137-19",,"1137-19 ","Tanchella Luca","Cantiere/Gruppo Attivo","Altedo","Malalbergo, via Rino Pezzoli snc","44.68793, 11.49832","1",,NULL,NULL
+"45357","1146-19",,"1146-19 ","Magli Stefano","Cantiere/Gruppo Terminato","San Giorgio di Piano","Bentivoglio, Arrigo Boldrini snc","44.6358, 11.4172","6",,NULL,NULL
+"45359","1157-21",,"1157-21 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, Borsellino snc","44.69454, 11.39668","4",,NULL,NULL
+"45361","116-23",,"116-23 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Bologna, Corticella 244","44.54721, 11.35559","5",,NULL,NULL
+"45363","1-21",,"1-21 ","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","Bentivoglio, Via Ilaria Alpi 1","44.6078, 11.381","2",,NULL,NULL
+"45369","144-19",,"144-19 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, Via Carlo Alberto dalla Chiesa Snc","44.7021, 11.40448","2",,NULL,NULL
+"45371","145-21",,"145-21 ","Caselli Alessio","Cantiere/Gruppo Attivo","Cento","Crevalcore, via Provanone snc","44.7886, 11.2027","16",,NULL,NULL
+"45373","15-23",,"15-23 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, Via Fanin Snc","44.6529, 11.3724","6",,NULL,NULL
+"45375","156-19",,"156-19 ","Curzola Simone","Cantiere/Gruppo Terminato","Divisioni Specialistiche","Bologna, vicolo degli Ariosti 3","44.4959, 11.3422","3",,NULL,NULL
+"45379","186-20",,"186-20 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","Galliera, Via XXV Aprile 1945 snc","44.73779, 11.43626","8",,NULL,NULL
+"45381","195-22",,"195-22 ","Ceneri Vittorio","Cantiere/Gruppo Terminato","San Pietro in Casale","San Pietro in Casale, via Galliera Sud snc","44.6884, 11.397","5",,NULL,NULL
+"45387","244-23",NULL,NULL,"Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","Bentivoglio, via Santa Maria in Duno snc","44.6159, 11.3398","1",,NULL,NULL
+"45389","25-23",,"25-23 ","Caselli Alessio","Cantiere/Gruppo Terminato","Cento","Cento, Via Bologna 14","44.7296, 11.2855","2",,NULL,NULL
+"45391","257-23",,"257-23 ","Torcasso Angela","Cantiere/Gruppo Terminato","Altedo","Malalbergo, via Chiavicone 5","44.6826, 11.4971","2",,NULL,"2025-01-27"
+"45393","273-22",,"273-22 ","Magli Stefano","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, Via Rita Levi Montalcini snc","44.6489, 11.3672","1",,NULL,NULL
+"45399","292-23",,"292-23 ","Musi Claudio","Cantiere/Gruppo Attivo","Granarolo","Granarolo dell'Emilia, Via Neri snc","44.55081, 11.44349","21",,NULL,NULL
+"45401","29-23",,"29-23 ","Tassinari Stefano","Cantiere/Gruppo Terminato","Castel Maggiore","Castel Maggiore, Via Irma Bandiera 32","44.5712, 11.3622","1",,NULL,NULL
+"45405","316-21",,"316-21 ","Tanchella Luca","Cantiere/Gruppo Terminato","Altedo","Malalbergo, via Dei Fumanti 1","44.6929, 11.502","12",,NULL,NULL
+"45407","322-22",,"322-22 ","Parmeggiani Claudio","Cantiere/Gruppo Attivo","Castel Maggiore","San Giovanni in Persiceto, Via Castagnolo snc","44.636, 11.1849","18",,NULL,NULL
+"45413","337-22",,"337-22 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Bologna, Via John Cage snc","44.5111, 11.3378","2",,NULL,NULL
+"45419","354-23",NULL,NULL,"Fabbri Riccardo","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, via Nilde Iotti snc","44.65047, 11.36666","3",,NULL,NULL
+"45423","386-21",,"386-21 ","Tanchella Luca","Cantiere/Gruppo Attivo","Altedo","Malalbergo, via Rino Pezzoli snc","44.688, 11.4984","1",,NULL,NULL
+"45425","4-21",,"4-21 ","Tanchella Luca","Cantiere/Gruppo Attivo","Altedo","Malalbergo, via Rino Pezzoli snc","44.688, 11.4984","2",,NULL,NULL
+"45435","463-21",,"463-21 ","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, via Nilde Iotti snc","44.6502, 11.3665","2",,NULL,NULL
+"45437","468-21",,"468-21 ","Magli Stefano","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, Via Stalingrado snc","44.6477, 11.3698","1",,NULL,NULL
+"45439","479-21",NULL,NULL,"Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, via stalingrado snc","44.6477, 11.3698","3",,NULL,NULL
+"45443","500-20",,"500-20 ","Pasqualini Andrea","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, Via Stagno 0","44.70566, 11.39586","3",,NULL,NULL
+"45445","517-22",,"517-22 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, Zanichelli snc","44.69905, 11.40293","3",,NULL,NULL
+"45451","597-22",,"597-22 ","Tanchella Luca","Cantiere/Gruppo Terminato","Altedo","Malalbergo, Via Rino Pezzoli Snc","44.688, 11.4984","5",,NULL,NULL
+"45453","610-22",,"610-22 ","Torre Antonio","Cantiere/Gruppo Attivo","Castenaso","Budrio, Via Sandro Pertini snc","44.5324, 11.5372","7",,NULL,NULL
+"45457","627-22",,"627-22 ","Torre Antonio","Cantiere/Gruppo Terminato","Castenaso","Budrio, Via Pertini snc","44.5324, 11.5372","4",,NULL,NULL
+"45459","629-19",,"629-19 ","Vancini Alessandro","Cantiere/Gruppo Terminato","Cento","Terre del Reno, Via Torre snc","44.7912, 11.3892","2",,NULL,NULL
+"45461","629-22",NULL,NULL,"Tanchella Luca","Cantiere/Gruppo Attivo","Altedo","Baricella, via Federico Fellini snc","44.6479, 11.5409","1",,NULL,NULL
+"45467","64-23",,"64-23 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Bologna, via Terracini snc","44.5174, 11.3218","58",,NULL,NULL
+"45469","667-22",,"667-22 ","Pisanello Francesco","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, via Stiatico 11","44.6683, 11.3796","5",,NULL,NULL
+"45471","685-22",,"685-22 ","Parmeggiani Claudio","Cantiere/Gruppo Terminato","Castel Maggiore","Castel Maggiore, Piazza Lorusso 10","44.5757, 11.3648","1",,NULL,NULL
+"45473","693-21",,"693-21 ","Ceneri Vittorio","Cantiere/Gruppo Terminato","San Pietro in Casale","San Pietro in Casale, via Roma ---","44.6998, 11.4075","2",,NULL,NULL
+"45475","702-22",,"702-22 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, via Fanin snc","44.69283, 11.39466","27",,NULL,NULL
+"45477","742-22",,"742-22 ","Parmeggiani Claudio","Cantiere/Gruppo Attivo","Castel Maggiore","Castel Maggiore, Via Gramsci 280","44.5696, 11.3601","3",,NULL,NULL
+"45479","744-20",,"744-20 ","Tanchella Luca","Cantiere/Gruppo Terminato","Altedo","Malalbergo, Bassa snc","44.6929, 11.502","1",,NULL,NULL
+"45481","746-22",,"746-22 ","Tassinari Nicholas","Cantiere/Gruppo Terminato","Ferrara","Ferrara, Via Antonio e Nicolò Beccari 94","44.9063, 11.5305","1",,NULL,NULL
+"45485","758-20",,"758-20 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Bologna, Via Cimabue 12","44.5028, 11.2987","13",,NULL,NULL
+"45487","800-22",,"800-22 ","Ceresi Emanuela","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, Setti 1235/B","44.71751, 11.44386","1",,NULL,NULL
+"45489","816-22",,"816-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, VIA FANIN SCN","44.6541, 11.4354","1",,NULL,NULL
+"45491","817-22",NULL,NULL,"Fabbri Riccardo","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, via fanin scn","44.65728, 11.433","1",,NULL,NULL
+"45493","818-22",NULL,NULL,"Fabbri Riccardo","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, fanin scn","44.6529, 11.3724","1",,NULL,NULL
+"45495","826-22",,"826-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, FANIN SCN","44.6547, 11.435","1",,NULL,NULL
+"45497","827-22",NULL,NULL,"Fabbri Riccardo","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, fanin scn","44.6529, 11.3724","1",,NULL,NULL
+"45499","828-22",,"828-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, FANIN SCN","44.6547, 11.435","1",,NULL,NULL
+"45501","832-22",,"832-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, FANIN SCN","44.6547, 11.435","1",,NULL,NULL
+"45503","83-23",,"83-23 ","Tassinari Stefano","Cantiere/Gruppo Terminato","Castel Maggiore","Argelato, via Frabetti 16","44.409, 11.2791","1",,NULL,NULL
+"45505","836-22",NULL,NULL,"Fabbri Riccardo","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, FANIN SCN","44.6529, 11.3724","1",,NULL,NULL
+"45507","850-22",,"850-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, FANIN SCN","44.6547, 11.435","1",,NULL,NULL
+"45509","851-22",,"851-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, FANIN SCN","44.6529, 11.3724","1",,NULL,NULL
+"45511","852-22",,"852-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, FANIN SCN","44.6529, 11.3724","1",,NULL,NULL
+"45513","853-22",,"853-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, FANIN SCN","44.6529, 11.3724","1",,NULL,NULL
+"45517","864-20",,"864-20 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, Via Carlo Alberto Dalla Chiesa snc","44.6991, 11.4029","8",,NULL,NULL
+"45519","878-22",,"878-22 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, Via Galliera Sud 48","44.69524, 11.40063","14","In Costruzione",NULL,NULL
+"45521","912-22",,"912-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, VIA FANIN SCN","44.6529, 11.3724","1",,NULL,NULL
+"45523","913-22",,"913-22 ","Fabbri Riccardo","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, VIA DELLA PACE 12","44.6473, 11.3749","1",,NULL,NULL
+"45525","914-22",,"914-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, della pace 12","44.6473, 11.3749","1",,NULL,NULL
+"45529","936-21",,"936-21 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Zola Predosa, Via Ippolito Nievo snc","44.4874, 11.2388","5",,NULL,NULL
+"45531","950-21",,"950-21 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Zola Predosa, Via Ippolito Nievo snc","44.4874, 11.2388","9",,NULL,NULL
+"45533","965-22",,"965-22 ","Fabbri Riccardo","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, via Della Pace snc","44.6473, 11.3749","6",,NULL,NULL
+"45537","97-22",,"97-22 ","Biondi Gianni","Cantiere/Gruppo Attivo","Divisioni Specialistiche","San Giorgio di Piano, Via Montalcini 1","44.6489, 11.3672","4",,NULL,NULL
+"45539","977-19",,"977-19 ","Tanchella Luca","Cantiere/Gruppo Terminato","Altedo","Malalbergo, E.Minghetti snc","44.6929, 11.502","10",,NULL,NULL
+"45541","980-21",,"980-21 ","Tanchella Luca","Cantiere/Gruppo Terminato","Altedo","Malalbergo, Via Nazionale Snc","44.6898, 11.5015","2",,NULL,NULL
+"45543","982-22","Parco Creti","982-22 Parco Creti","Torre Antonio","Cantiere/Gruppo Terminato","Castenaso","Budrio, Via Creti snc","44.5334, 11.5392","1","In Costruzione",NULL,NULL
+"45545","990-22",,"990-22 ","Pezzoli Luca","Cantiere/Gruppo Terminato","San Pietro in Casale","Galliera, via I Maggio 14","44.7568, 11.3966","3",,NULL,NULL
+"46743","986-22","Edilpaolantonio s.r.l.","986-22 Edilpaolantonio s.r.l.","Orsini Alessandro","Cantiere/Gruppo Terminato","Altedo","Malalbergo, via del Borgo snc","44.66715, 11.49352","1",,NULL,NULL
+"47627","500-23",,"500-23 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, via Roma snc","44.6998, 11.4075","14","In Progettazione","2023-09-15","2025-03-15"
+"48413","514-23","Residenze Via Loi","514-23 Residenze Via Loi","Parmeggiani Claudio","Cantiere/Gruppo Attivo","Castel Maggiore","Castel Maggiore, Via Loi snc","44.5705, 11.3556","13","In Costruzione",NULL,"2024-12-31"
+"48505","553-23","via Cesari snc","553-23 via Cesari snc","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, via Cesari snc","44.6438, 11.3837","4",,NULL,NULL
+"48623","596-23","VIA COMACCHIO FABBRICATO A","596-23 VIA COMACCHIO FABBRICATO A","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Ferrara, Via Fabrizio De Andrè Snc","44.8179, 11.6449","9",,NULL,NULL
+"49015","774-23","Residenza ""I Girasoli""","774-23 Residenza ""I Girasoli""","Torre Antonio","Cantiere/Gruppo Attivo","Castenaso","Castenaso, Via Bulgarelli 1-3","44.5139, 11.4582","7","In Costruzione",NULL,"2024-12-30"
+"49033","776-23","Residenze ""I Girasoli""","776-23 Residenze ""I Girasoli""","Torre Antonio","Cantiere/Gruppo Attivo","Castenaso","Castenaso, Via Bulgarelli 1-3","44.5139, 11.4582","6","In Costruzione",NULL,"2024-09-30"
+"49155","827-23",,"827-23 ","Arrichiello Paolo","Cantiere/Gruppo Terminato","San Pietro in Casale","San Pietro in Casale, via De Juliis snc","44.69905, 11.40293","3","In Progettazione",NULL,NULL
+"49177","835-23",,"835-23 ","Canuso Donata","Cantiere/Gruppo Attivo","Poggio Renatico","Poggio Renatico, Via Lambertini 2","44.77066, 11.47975","4",,NULL,NULL
+"49287","886-23",,"886-23 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Poggio Renatico, Via XX Settembre Snc","44.7668, 11.4812","2",,NULL,NULL
+"49507","981-23",,"981-23 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Ferrara, Via Conca Snc","44.8566, 11.6532","2",,NULL,NULL
+"49529","989-23","Borgo dei Fiori","989-23 Borgo dei Fiori","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Casalecchio di Reno, Via Antonio Zannoni 27","44.4619, 11.2757","9",,NULL,NULL
+"49543","995-23",,"995-23 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Vigarano Mainarda, Via Giuseppe di Vittorio 2","44.807, 11.5593","6",,NULL,NULL
+"49589","1008-23","Edildue s.r.l.","1008-23 Edildue s.r.l.","Tanchella Luca","Cantiere/Gruppo Attivo","Altedo","Malalbergo, via Rino Pezzoli snc","44.688, 11.4984","2",,"2023-09-01",NULL
+"49971","1186-23","RESIDENZE MARE","1186-23 RESIDENZE MARE","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Cervia, Caduti per la Libertà 8","44.25814, 12.35106","12","In Costruzione",NULL,NULL
+"50135","1258-23","via Sant'Agnese snc","1258-23 via Sant'Agnese snc","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro In Casale, via Sant'Agnese snc","44.7174, 11.42949","6",,NULL,NULL
+"50521","1429-23","COMPLESSO RESIDENZIALE VALLEVERDE","1429-23 COMPLESSO RESIDENZIALE VALLEVERDE","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Pianoro, Valleverde snc","44.39296, 11.34231","4",,NULL,NULL
+"50653","1486-23","Ginepreto Lotto A1","1486-23 Ginepreto Lotto A1","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Pianoro, del Ginepreto snc","44.39261, 11.34331","15",,NULL,"2024-12-31"
+"51157","1708-23","RESIDENZE CARBONARI","1708-23 RESIDENZE CARBONARI","Curzola Simone","Cantiere/Gruppo Terminato","Divisioni Specialistiche","Casalecchio di Reno, Carbonari snc","44.48201, 11.27286","2",,NULL,NULL
+"51165","1712-23","Le Magnolie","1712-23 Le Magnolie","Torre Antonio","Cantiere/Gruppo Attivo","Castenaso","Castenaso, Via dei Mille snc","44.50399, 11.4784","3","In Progettazione",NULL,"2025-10-30"
+"51293","1748-23","Parco Creti","1748-23 Parco Creti","Torre Antonio","Cantiere/Gruppo Attivo","Castenaso","Budrio, Via Terracini snc","44.53161, 11.53994","12","In Costruzione",NULL,NULL
+"51465","1831-23",,"1831-23 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Zola Predosa, Via Ippolito Nievo snc","44.48967, 11.21831","17",,NULL,NULL
+"51521","1858-23",,"1858-23 ","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio Di Piano, via Laura Bassi snc","44.6501, 11.36788","11","In Progettazione",NULL,NULL
+"51743","1933-23","Parco Creti - Ville bifamiliari","1933-23 Parco Creti - Ville bifamiliari","Torre Antonio","Cantiere/Gruppo Attivo","Castenaso","Budrio, Via Berlinguer snc","44.53197, 11.54005","4","In Costruzione",NULL,NULL
+"51913","2010-23",,"2010-23 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Ferrara, Via Pontisette 3","44.83367, 11.62241","3",,NULL,NULL
+"51915","2011-23",,"2011-23 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Ferrara, Via del Gambero 12","44.8359, 11.6234","5",,NULL,NULL
+"51917","2012-23",,"2012-23 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Ferrara, Via Mazzini 8","44.8346, 11.6211","1",,NULL,NULL
+"51919","2013-23",,"2013-23 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Ferrara, Via Terranuova 22","44.8351, 11.6246","3",,NULL,NULL
+"58643","937-23",,"937-23 ","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, via R. L. Montalcini snc","44.66826, 11.37961","2","In Costruzione",NULL,"2025-02-10"
+"51961","2034-23",,"2034-23 ","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","Bentivoglio, via Pallotti snc","44.63579, 11.41719","3",,NULL,"2025-09-30"
+"51977","2040-23","OROBLU","2040-23 OROBLU","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cervia, Via  dei Tulipani snc","44.26684, 12.33296","4",,NULL,"2025-02-06"
+"51979","2041-23",,"2041-23 ","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cervia, Urano 26","44.255, 12.3578","13",,NULL,NULL
+"52641","165-24","Liberty","165-24 Liberty","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio Di Piano, Via Rimembranza ","44.6468, 11.3754","4","In Costruzione",NULL,"2024-12-31"
+"52751","216-24","Edilpaolantonio s.r.l.","216-24 Edilpaolantonio s.r.l.","Orsini Alessandro","Cantiere/Gruppo Terminato","Altedo","Altedo, via Del Borgo snc","44.69294, 11.50195","2",,NULL,NULL
+"53363","400-24",,"400-24 ","Canuso Donata","Cantiere/Gruppo Attivo","Poggio Renatico","Poggio Renatico, Bassani Snc","44.76784, 11.49172","5",,NULL,NULL
+"53793","584-24",,"584-24 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Ferrara, Via Tebaldeo Snc","44.85107, 11.65213","2",,NULL,NULL
+"53821","596-24","RESIDENZE DEL SOLE","596-24 RESIDENZE DEL SOLE","Canuso Donata","Cantiere/Gruppo Terminato","Poggio Renatico","Poggio Renatico, Via Eroi di Cefalonia Snc","44.76813, 11.4839","5","In Costruzione",NULL,NULL
+"53863","611-24","Comparto 9","611-24 Comparto 9","Magli Stefano","Cantiere/Gruppo Terminato","San Giorgio di Piano","San Giorgio di Piano, Via Santa Maria in Duno snc","44.64288, 11.37636","5","In Progettazione","2024-03-15","2025-12-31"
+"53949","649-24",,"649-24 ","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cervia, Via Verbano snc","44.24746, 12.35038","2",,NULL,NULL
+"53999","671-24",,"671-24 ","Ceneri Vittorio","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, via Forlì snc","44.69905, 11.40293","4",,NULL,NULL
+"54011","673-24",,"673-24 ","Caselli Alessio","Cantiere/Gruppo Attivo","Cento","Cento, Via Salieri Snc","44.7317, 11.28056","5",,NULL,NULL
+"54571","933-24","F.lli Fraiese","933-24 F.lli Fraiese","Tanchella Luca","Cantiere/Gruppo Attivo","Altedo","Malalbergo, via San Giovanni Battista snc","44.71867, 11.53221","9",,NULL,NULL
+"54775","1023-24",,"1023-24 ","Musi Claudio","Cantiere/Gruppo Attivo","Granarolo","Granarolo dell'Emilia, Via dello Sport snc","44.55661, 11.4358","11","In Progettazione","2024-09-01","2026-07-01"
+"54801","1025-24",,"1025-24 ","Musi Claudio","Cantiere/Gruppo Attivo","Granarolo","Granarolo dell'Emilia, Via dello Sport snc","44.55661, 11.4358","11","In Progettazione","2024-09-01","2026-07-01"
+"55071","1140-24",,"1140-24 ","Pasqualini Andrea","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, via Altedo 113","44.70076, 11.41484","5",,NULL,NULL
+"55153","1174-24","Seaside Pines Apartments","1174-24 Seaside Pines Apartments","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cervia, Via Campanini snc","44.261, 12.3495","5",,NULL,NULL
+"55271","1227-24",,"1227-24 ","Canuso Donata","Cantiere/Gruppo Attivo","Poggio Renatico","Poggio Renatico, Via Altiero Spinelli 6","44.74763, 11.51931","2",,NULL,NULL
+"55285","1233-24","Edil Pianoro","1233-24 Edil Pianoro","Orsini Alessandro","Cantiere/Gruppo Attivo","Altedo","Minerbio, via Fosse snc","44.62046, 11.49007","4",,"2024-05-01","2025-12-31"
+"55325","1249-24",,"1249-24 ","Tanchella Luca","Cantiere/Gruppo Attivo","Altedo","Malalbergo, via Bassa Inferiore snc","44.66084, 11.48331","4",,NULL,NULL
+"55441","1299-24",,"1299-24 ","Torcasso Angela","Cantiere/Gruppo Attivo","Altedo","Malalbergo, Piazza XV Aprile snc","44.71867, 11.53221","4",,NULL,"2025-09-30"
+"55465","1307-24",,"1307-24 ","Caselli Alessio","Cantiere/Gruppo Attivo","Cento","Cento, Vicolo Sant'Agostino ","44.72963, 11.28938","5",,NULL,NULL
+"55623","1378-24","Corte San Giuseppe","1378-24 Corte San Giuseppe","Stracciari Alessandro","Cantiere/Gruppo Attivo","Castel Maggiore","Castel Maggiore, Via Del Rosario 19/A","44.54879, 11.33684","4",,NULL,NULL
+"55725","1425-24","Harmonia  - L’Arte di Abitare","1425-24 Harmonia  - L’Arte di Abitare","Tassinari Stefano","Cantiere/Gruppo Terminato","Castel Maggiore","Castel Maggiore, Via Giuseppe Impastato 36","44.56944, 11.35351","5",,"2024-03-30","2025-12-31"
+"55745","1433-24",,"1433-24 ","Silvestri Edoardo","Cantiere/Gruppo Attivo","Poggio Renatico","Poggio Renatico, Via Bassani snc","44.76784, 11.49172","5","Immobile Ultimato",NULL,NULL
+"55797","1451-24",,"1451-24 ","Pasqualini Andrea","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, via Stagno snc","44.69905, 11.40293","3",,NULL,NULL
+"55899","1498-24",,"1498-24 ","Parmeggiani Claudio","Cantiere/Gruppo Attivo","Castel Maggiore","Castel Maggiore, Via Della Chiesa 71","44.5732, 11.37137","4",,NULL,NULL
+"55999","1545-24",,"1545-24 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Ferrara, Bologna 43","44.86226, 11.57005","5","Immobile Ultimato",NULL,NULL
+"56061","1567-24","Mediterranee","1567-24 Mediterranee","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cervia, Viale Matteotti 94","44.27946, 12.34777","8",,"2024-07-01","2025-12-30"
+"56125","1590-24",,"1590-24 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Bologna, Martin Luther King 38/3","44.52149, 11.2662","5",,NULL,NULL
+"56151","1598-24",,"1598-24 ","Canuso Donata","Cantiere/Gruppo Attivo","Poggio Renatico","Poggio Renatico, Via Della Repubblica Snc","44.76597, 11.49011","4",,NULL,NULL
+"56191","1613-24","EDILCOS","1613-24 EDILCOS","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio di Piano, Via Cesari Snc","44.64376, 11.38368","5","In Costruzione",NULL,"2025-12-31"
+"56207","1615-24","Cantiere DIMORE VERDI","1615-24 Cantiere DIMORE VERDI","Torre Antonio","Cantiere/Gruppo Attivo","Castenaso","Budrio, Via Benedetto Orsoni snc","44.5331, 11.5358","3",,"2024-10-01","2026-04-01"
+"56253","1636-24","La Maison","1636-24 La Maison","Pasqualini Andrea","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, via Vittime Delle Mafie snc","44.6955, 11.39402","4","In Progettazione",NULL,NULL
+"56497","1735-24","Villette Lillà","1735-24 Villette Lillà","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cervia, Via Delle Camelie 11","44.26517, 12.33402","1",,NULL,NULL
+"56837","1900-24",,"1900-24 ","Tassinari Stefano","Cantiere/Gruppo Attivo","Castel Maggiore","Bomporto, Via Adige snc","44.73251, 11.03528","7",,NULL,NULL
+"57795","2332-24",,"2332-24 ","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio Di Piano, Via Cesari Snc","44.64376, 11.38368","2","Movimentazione Terreno",NULL,"2026-06-30"
+"57807","2334-24",,"2334-24 ","Manferdini Federico","Cantiere/Gruppo Attivo","Bologna Est - F","Bologna, Delle Lame 15","44.49701, 11.33688","3",,NULL,NULL
+"57861","2355-24","La.Ca Bioedile s.r.l.","2355-24 La.Ca Bioedile s.r.l.","Torcasso Angela","Cantiere/Gruppo Attivo","Altedo","Malalbergo, piazza Unità d'Italia 5","44.7181, 11.53404","1","In Progettazione","2025-03-01","2025-12-31"
+"57901","2370-24",,"2370-24 ","Zambelli Tommaso","Cantiere/Gruppo Attivo","Bologna Est - F","Pianoro Vecchio, Irma Bandiera snc","44.37099, 11.3407","6","In Costruzione","2024-09-01","2026-03-31"
+"58035","2422-24",,"2422-24 ","Canuso Donata","Cantiere/Gruppo Attivo","Poggio Renatico","Poggio Renatico, Via Cento 90","44.76597, 11.49011","3",,NULL,NULL
+"58099","2454-24",,"2454-24 ","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio Di Piano, Via de Giudei e Via XXV Aprile 45 Snc","44.6468, 11.3754","3",,NULL,NULL
+"58113","2458-24",,"2458-24 ","Zambelli Tommaso","Cantiere/Gruppo Attivo","Bologna Est - F","Sala Bolognese, 2 Agosto 1980 snc","44.58096, 11.23496","8",,NULL,NULL
+"58229","20-25",,"20-25 ","Tassinari Stefano","Cantiere/Gruppo Attivo","Castel Maggiore","Castel Maggiore, Via Galliera 14","44.5603, 11.3559","5",,NULL,NULL
+"58453","119-25",,"119-25 ","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cervia, Viale dante snc","44.26965, 12.35277","6",,NULL,NULL
+"58587","174-25","VIA CAPUA","174-25 VIA CAPUA","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cervia, Via Capua 3","44.26098, 12.34955","6",,NULL,NULL
+"58601","175-25",,"175-25 ","Magli Stefano","Cantiere/Gruppo Attivo","San Giorgio di Piano","San Giorgio Di Piano, Via Cesari Snc","44.6438, 11.3837","3","In Progettazione",NULL,NULL
+"58693","207-25",,"207-25 ","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cervia, Via Machiavelli 54/b","44.26471, 12.34032","4",,NULL,NULL
+"58783","250-25",,"250-25 ","Lama Francesko","Cantiere/Gruppo Attivo","Cervia","Cesenatico, Via Zara 59b","44.19108, 12.40996","3",,NULL,NULL
+"58843","280-25",,"280-25 ","Franco Francesco","Cantiere/Gruppo Attivo","Bologna Nord","Bologna, Via della Beverara 9","44.51094, 11.33025","15","Immobile Ultimato",NULL,NULL
+"58921","310-25","G&B Home s.r.l.","310-25 G&B Home s.r.l.","Arrichiello Paolo","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, via Rubizzano snc","44.69784, 11.40593","5",,NULL,NULL
+"59035","345-25","Edildue s.r.l.","345-25 Edildue s.r.l.","Tanchella Luca","Cantiere/Gruppo Attivo","Altedo","Malalbergo, via Rino Pezzoli snc","44.688, 11.4984","2","In Progettazione","2025-06-15","2026-12-31"
+"59085","369-25","Penta Domus s.r.l.","369-25 Penta Domus s.r.l.","Torcasso Angela","Cantiere/Gruppo Attivo","Altedo","Pegola, via Rino Pezzoli snc","44.68801, 11.49835","1",,NULL,"2025-05-30"
+"59127","385-25","Penta Domus s.r.l. (palazzina)","385-25 Penta Domus s.r.l. (palazzina)","Torcasso Angela","Cantiere/Gruppo Attivo","Altedo","Malalbergo, via Rino Pezzoli snc","44.6879, 11.4983","5","In Costruzione","2025-04-30","2026-12-31"
+"59149","396-25","Mira Immobiliare s.r.l.","396-25 Mira Immobiliare s.r.l.","Arrichiello Paolo","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, via Fanin snc","44.69184, 11.39452","3",,"2025-02-15","2026-06-30"
+"45365","131-22",,"131-22 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Pianoro, Via del Cappello 4","44.4416, 11.3577","0",,NULL,NULL
+"45367","135-22",,"135-22 ","Curzola Simone","Cantiere/Gruppo Terminato","Divisioni Specialistiche","Pianoro, Via Lelli 3","44.4331, 11.3634","0",,NULL,NULL
+"45377","181-23",,"181-23 ","Canuso Donata","Cantiere/Gruppo Attivo","Poggio Renatico","Poggio Renatico, Via Eroi di Cefalonia Snc","44.7681, 11.4839","0",,NULL,NULL
+"45383","210-22",,"210-22 ","Caldari Luca","Cantiere/Gruppo Terminato","Imola","Imola, Piazzale Leonardo da Vinci 1","44.3482, 11.7126","0",,NULL,NULL
+"45395","28-20",,"28-20 ","Cavallini Marco","Cantiere/Gruppo Attivo","Ferrara","Ferrara, via Del Turco 8/10/12","44.8348, 11.6165","0",,NULL,NULL
+"45403","304-23",,"304-23 ","Vancini Alessandro","Cantiere/Gruppo Terminato","Cento","Cento, Via Donati 5","44.7246, 11.2917","0",,NULL,NULL
+"45411","330-19",,"330-19 ","Biondi Gianni","Cantiere/Gruppo Attivo","Divisioni Specialistiche","San Giorgio di Piano, via marconi snc","44.646, 11.3776","0",,NULL,NULL
+"45417","348-21",,"348-21 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Bologna, Terracini snc","44.5139, 11.3186","0",,NULL,NULL
+"45421","363-23",,"363-23 ","Curzola Simone","Cantiere/Gruppo Terminato","Divisioni Specialistiche","Bologna, via Marsala 47","44.4964, 11.3483","0",,NULL,NULL
+"45429","438-22",,"438-22 ","Caselli Alessio","Cantiere/Gruppo Terminato","Cento","Pieve di Cento, Via Verdi 22","44.7174, 11.3034","0",,NULL,NULL
+"45447","585-22",,"585-22 ","Barbi Nikolas","Cantiere/Gruppo Terminato","Castenaso","Molinella, Via Fiume Vecchio 342","44.6282, 11.6802","0",,NULL,NULL
+"45455","61-22",,"61-22 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","San Lazzaro di Savena, Via Emilia 155","44.471, 11.4085","0",,NULL,NULL
+"45515","861-22",,"861-22 ","Torre Antonio","Cantiere/Gruppo Terminato","Castenaso","Budrio, Via Rabuina snc","44.5355, 11.5182","0",,NULL,NULL
+"45535","966-22",,"966-22 ","Curzola Simone","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Casalecchio di Reno, Garibaldi 1","44.4789, 11.2775","0",,NULL,NULL
+"49319","900-23",,"900-23 ","Orsini Alessandro","Cantiere/Gruppo Terminato","Altedo","Malalbergo, via Del Borgo snc","44.69294, 11.50195","0",,NULL,NULL
+"51581","1869-23",,"1869-23 ","Diolaiti Stefania","Cantiere/Gruppo Attivo","Divisioni Specialistiche","Bologna, D'Azeglio 15","44.49382, 11.34263","0",,NULL,NULL
+"54065","693-24","Costel s.r.l.","693-24 Costel s.r.l.","Pasqualini Andrea","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro in Casale, via Fanin snc","44.69281, 11.39466","1","In Costruzione",NULL,NULL
+"54815","1032-24",,"1032-24 ","Tassinari Nicholas","Cantiere/Gruppo Attivo","Ferrara","Ferrara, Via Enrica Calabresi Snc","44.84997, 11.55398","2","In Progettazione",NULL,NULL
+"54857","1049-24","Costel s.r.l.","1049-24 Costel s.r.l.","Pasqualini Andrea","Cantiere/Gruppo Attivo","San Pietro in Casale","San Pietro In Casale, Via Fanin snc","44.69368, 11.39539","3","In Costruzione",NULL,NULL
+"56857","1909-24",,"1909-24 ","Calzolari Rachele","Cantiere/Gruppo Attivo","Cento","Ferrara, via 30 ottobre 20","44.8498, 11.7211","1",,NULL,NULL
+"57101","2020-24",,"2020-24 ","Tassinari Stefano","Cantiere/Gruppo Attivo","Castel Maggiore","Argelato, Via Matteotti ","44.5928, 11.36759","4",,NULL,NULL
+"57735","2313-24","viale XI Settembre","2313-24 viale XI Settembre","Tanchella Luca","Cantiere/Gruppo Attivo","Altedo","Malalbergo, viale XI Settembre snc","44.71867, 11.53221","5","In Progettazione","2025-03-15","2026-12-31"
+"58687","205-25","Stylke house ferretti","205-25 Stylke house ferretti","Tassinari Stefano","Cantiere/Gruppo Terminato","Castel Maggiore","Castel Maggiore, Via Teresa Noce 12","44.5676, 11.3659","1",,NULL,NULL
