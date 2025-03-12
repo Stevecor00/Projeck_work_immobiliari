@@ -2,54 +2,48 @@ File: campaigns_click
 Numero di righe: 17
 Numero di colonne: 8
 Nomi delle colonne, tipi di dati e descrizioni:
-- campaign (object): Descrizione non disponibile
+- campaign (object): Il nome della campagna pubblicitaria che stai visualizzando nei report. La tua campagna contiene set di annunci e annunci.
 - campaign_id (int64): ID univoco della campagna
-- cpc (float64): Descrizione non disponibile
-- cpm (float64): Descrizione non disponibile
-- outbound_clicks_ctr_outbound_click (float64): Descrizione non disponibile
-- outbound_clicks_outbound_click (float64): Descrizione non disponibile
-- unique_link_clicks_ctr (float64): Descrizione non disponibile
-- website_ctr_link_click (float64): Descrizione non disponibile
+- cpc (float64): Costo per Click
+- cpm (float64): Costo per Mille impressioni
+- outbound_clicks_ctr_outbound_click (float64): La percentuale di volte in cui gli utenti hanno visualizzato il tuo annuncio ed eseguito un clic in uscita.
+- outbound_clicks_outbound_click (float64): Numero di clic sui link che indirizzano le persone fuori dalle proprietà di Facebook.
+- unique_link_clicks_ctr (float64):La percentuale di persone che hanno visto il tuo annuncio e hanno cliccato sul link.
+- website_ctr_link_click (float64): La percentuale di volte in cui gli utenti hanno visualizzato il tuo annuncio e hanno cliccato sul link.
 --------------------------------------------------
 File: campaigns_full
 Numero di righe: 17
 Numero di colonne: 19
 Nomi delle colonne, tipi di dati e descrizioni:
-- campaign (object): Descrizione non disponibile
-- campaign_bid_strategy (float64): Descrizione non disponibile
-- campaign_budget_remaining (float64): Descrizione non disponibile
-- campaign_buying_type (object): Descrizione non disponibile
-- campaign_configured_status (object): Descrizione non disponibile
-- campaign_created_time (object): Descrizione non disponibile
-- campaign_daily_budget (float64): Descrizione non disponibile
-- campaign_effective_status (object): Descrizione non disponibile
+- campaign (object): Il nome della campagna pubblicitaria che stai visualizzando nei report. La tua campagna contiene set di annunci e annunci.
+- campaign_bid_strategy (float64): Strategia di offerta per questa campagna quando abiliti l'ottimizzazione del budget della campagna e quando utilizzi ASTA come tipo di acquisto
+- campaign_budget_remaining (float64): Il budget rimanente della campagna è definito nel livello di denominazione minima della valuta del tuo account (ad esempio centesimi per USD).
+- campaign_buying_type (object): Tipo di acquisto, i valori possibili sono: - ASTA predefinito; - RISERVATO per annunci con portata e frequenza.
+- campaign_configured_status (object): Se questo stato è IN PAUSA, tutti i set di annunci e gli annunci attivi verranno messi in pausa e avranno lo stato effettivo CAMPAIGN_PAUSED.
+- campaign_created_time (object): Unione di start_times per i set di annunci appartenenti a questa campagna.
+- campaign_daily_budget (float64): Il budget giornaliero di questa campagna è definito nel livello di denominazione minima della valuta del tuo account (ad esempio centesimi per USD). Tutti gli adset di questa campagna condivideranno questo budget.
+- campaign_effective_status (object): Lo stato effettivo della campagna. Lo stato potrebbe essere effettivo sia in base al suo stato sia in base allo stato della campagna padre.
 - campaign_id (int64): ID univoco della campagna
-- campaign_lifetime_budget (float64): Descrizione non disponibile
-- campaign_objective (object): Descrizione non disponibile
-- campaign_special_ad_category (object): Descrizione non disponibile
-- campaign_spend_cap (float64): Descrizione non disponibile
-- campaign_start_time (object): Descrizione non disponibile
-- campaign_stop_time (object): Descrizione non disponibile
-- campaignid (int64): Descrizione non disponibile
-- objective (object): Descrizione non disponibile
-- spend (float64): Descrizione non disponibile
-- totalcost (float64): Descrizione non disponibile
+- campaign_lifetime_budget (float64): Il budget per tutta la durata della campagna è definito nel livello di denominazione minima della valuta del tuo account (ad esempio centesimi per USD).
+- campaign_objective (object): Obiettivo della campagna. Se specificato, l'API convaliderà che tutti gli annunci creati sotto la campagna corrispondano a tale obiettivo.
+- campaign_special_ad_category (object): Categoria di annunci speciali della campagna. Una tra ALLOGGIO, LAVORO, CREDITO o NESSUNO.
+- campaign_spend_cap (float64): Un limite di spesa per la campagna, in modo che non venga speso più di questo limite.
+- campaign_start_time (object): Unione di start_times per i set di annunci appartenenti a questa campagna.
+- campaign_stop_time (object): Unione di stop_times per i set di annunci appartenenti a questa campagna.
+- objective (object): L'obiettivo che riflette l'obiettivo che vuoi raggiungere con la tua pubblicità. In alcuni casi potrebbe essere diverso dall'obiettivo selezionato della campagna. Questa colonna non si applica ai set di annunci, solo alle campagne e agli annunci.
+- spend (float64): Importo totale stimato di denaro speso per la tua campagna, gruppo di annunci o annuncio durante la sua programmazione.
+- totalcost (float64): Importo totale stimato di denaro speso per la tua campagna, il tuo set di annunci o il tuo annuncio durante la sua programmazione. (duplicato)
 --------------------------------------------------
 File: campaigns_budget
 Numero di righe: 54
 Numero di colonne: 6
 Nomi delle colonne, tipi di dati e descrizioni:
-- adset_budget_remaining (float64): Descrizione non disponibile
-- adset_daily_budget (float64): Descrizione non disponibile
-- adset_lifetime_budget (float64): Descrizione non disponibile
-- campaign (object): Descrizione non disponibile
+- adset_budget_remaining (float64): Budget rimanente di questo set di annunci
+- adset_daily_budget (float64): budget giornaliero
+- adset_lifetime_budget (float64): Il budget per tutta la durata del set è definito nel livello di denominazione minima della valuta del tuo account (ad esempio centesimi per USD).
+- campaign (object): Il nome della campagna pubblicitaria che stai visualizzando nei report. La tua campagna contiene set di annunci e annunci.
 - campaign_id (int64): ID univoco della campagna
-- campaign_lifetime_budget (float64): Descrizione non disponibile
+- campaign_lifetime_budget (float64): Il budget per tutta la durata della campagna è definito nel livello di denominazione minima della valuta del tuo account (ad esempio centesimi per USD).
 --------------------------------------------------
-File: campaigns_primary_key
-Numero di righe: 17
-Numero di colonne: 2
-Nomi delle colonne, tipi di dati e descrizioni:
-- campaign (object): Descrizione non disponibile
-- campaign_id (int64): ID univoco della campagna
---------------------------------------------------
+
+
