@@ -1,0 +1,55 @@
+File: campaigns_click
+Numero di righe: 17
+Numero di colonne: 8
+Nomi delle colonne, tipi di dati e descrizioni:
+- campaign (object): Descrizione non disponibile
+- campaign_id (int64): ID univoco della campagna
+- cpc (float64): Descrizione non disponibile
+- cpm (float64): Descrizione non disponibile
+- outbound_clicks_ctr_outbound_click (float64): Descrizione non disponibile
+- outbound_clicks_outbound_click (float64): Descrizione non disponibile
+- unique_link_clicks_ctr (float64): Descrizione non disponibile
+- website_ctr_link_click (float64): Descrizione non disponibile
+--------------------------------------------------
+File: campaigns_full
+Numero di righe: 17
+Numero di colonne: 19
+Nomi delle colonne, tipi di dati e descrizioni:
+- campaign (object): Descrizione non disponibile
+- campaign_bid_strategy (float64): Descrizione non disponibile
+- campaign_budget_remaining (float64): Descrizione non disponibile
+- campaign_buying_type (object): Descrizione non disponibile
+- campaign_configured_status (object): Descrizione non disponibile
+- campaign_created_time (object): Descrizione non disponibile
+- campaign_daily_budget (float64): Descrizione non disponibile
+- campaign_effective_status (object): Descrizione non disponibile
+- campaign_id (int64): ID univoco della campagna
+- campaign_lifetime_budget (float64): Descrizione non disponibile
+- campaign_objective (object): Descrizione non disponibile
+- campaign_special_ad_category (object): Descrizione non disponibile
+- campaign_spend_cap (float64): Descrizione non disponibile
+- campaign_start_time (object): Descrizione non disponibile
+- campaign_stop_time (object): Descrizione non disponibile
+- campaignid (int64): Descrizione non disponibile
+- objective (object): Descrizione non disponibile
+- spend (float64): Descrizione non disponibile
+- totalcost (float64): Descrizione non disponibile
+--------------------------------------------------
+File: campaigns_budget
+Numero di righe: 54
+Numero di colonne: 6
+Nomi delle colonne, tipi di dati e descrizioni:
+- adset_budget_remaining (float64): Descrizione non disponibile
+- adset_daily_budget (float64): Descrizione non disponibile
+- adset_lifetime_budget (float64): Descrizione non disponibile
+- campaign (object): Descrizione non disponibile
+- campaign_id (int64): ID univoco della campagna
+- campaign_lifetime_budget (float64): Descrizione non disponibile
+--------------------------------------------------
+File: campaigns_primary_key
+Numero di righe: 17
+Numero di colonne: 2
+Nomi delle colonne, tipi di dati e descrizioni:
+- campaign (object): Descrizione non disponibile
+- campaign_id (int64): ID univoco della campagna
+--------------------------------------------------
